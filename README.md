@@ -2,3 +2,4 @@
 - Data Cleaning
 - Multi Linear Regression
 - Classification Algoorithms
+- Clustering Algorithms
